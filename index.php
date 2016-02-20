@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!-- Meta Tags -->
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="description" content="">
+   <meta name="author" content="">
+    
+   <title>Canis - Multipurpse Landing Page</title>
+
+   <link rel="shortcut icon" href="images/favicon.png">
+   
+   <!-- Bootstrap Core CSS -->
+   <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+   <!-- Custom CSS -->
+   <link rel="stylesheet" href="css/style.css" type="text/css">
+   <!-- Animate CSS -->
+   <link rel="stylesheet" href="css/animate.css">
+   <!-- Light Box CSS -->
+   <link href="css/lightbox.css" rel="stylesheet" />
+   <!-- Custom Fonts -->
+   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300,800' rel='stylesheet' type='text/css'>
+
+   <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+  
+   <!-- Important Owl stylesheet -->
+   <link rel="stylesheet" href="css/owl.carousel.css">
+   <!-- Default Theme Owl Carousel -->
+   <link rel="stylesheet" href="css/owl.theme.css">
+   <!-- jQuery 1.9.1 -->
+   <script src="js/jquery-1.9.1.min.js"></script>
+   <!-- Include js plugin -->
+   <script src="js/owl.carousel.js"></script>
+   <!-- Light Box -->
+   <script src="js/lightbox.min.js"></script>
+</head>
+
+
+<body>
+	<!-- Header -->
+	<header id="topheader">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3">
+					<h1 class="text-uppercase">Canis</h1>
+				</div>
+				
+				<div class="col-md-7 col-md-offset-2">
+           			 <nav class="navigation"> <!-- Navigation -->
+           			 	<ul id="menu">
+            					<li><a href="#feautures">Feautures</a></li>
+            					<li><a href="#services">Services</a></li>
+            					<li><a href="#testimonials">Testimonials</a></li>
+            					<li><a href="#portfolio">Portfolio</a></li>
+            					<li><a href="#team">Our Team</a></li>
+            					<li><a href="#pricing">Pricing</a></li>
+            					<li><a href="#contact">Contact</a></li>
+            			</ul>
+        			 </nav> <!-- Navigation - End -->
+        			 <a href="#" id="toggle"><i class="fa fa-bars text-left"></i></a>
+				</div>
+			</div>
+			
+			<div class="row margin-t-90">
+				<div class="col-md-12">
+					<h1 class="text-center wow bounceInLeft">Simple, Reliable and Awesome.</h1>
+					<h4 class="text-center wow bounceInRight">Clean, Awesome, Multipurpose and Fully Responsive Landing Page Template.</h4>
+					<div class="row margin-t-60">
+						<div class="col-md-2 col-md-offset-4">
+							<a href="#subscribe" class="btn btn-primary w100 text-uppercase wow bounceInLeft">Get Started</a>
+						</div>
+						
+						<div class="col-md-2">
+							<a href="#contact" class="btn btn-success w100 text-uppercase wow bounceInRight">Contact</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<a href="#about-timeline" class="navscroll"><div class="arrow-down animated infinite bounce">
+			</div></a>
+		</div>
+	</header>
+	<!-- Header End -->
+	
+	<!-- About -->
+	<div id="about-timeline">
+		<div class="container">
+			<h1 class="text-center text-uppercase">About US</h1>
+			
+			<div class="row">
+				<div class="col-lg-12">
+				<ul>
+					<li>
+						<div class="timeline-left">
+							<div class="timeline-image wow zoomIn">
+								<img src="images/image1-s.jpg" alt="">
+							</div>
+							<br class="clearfix">
+							<h3 class="wow bounceInLeft">Transition to Full Service</h3>
+							<p class="wow bounceInLeft">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+						</div>
+					</li>
+						
+					<li>	
+						<div class="timeline-right">
+							<div class="timeline-image wow zoomIn">
+								<img src="images/image2-s.jpg" alt="">
+							</div>
+							<h3 class="wow bounceInRight">Transition to Full Service</h3>
+							<p class="wow bounceInRight">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+						</div>
+					</li>
+					
+					<li>
+						<div class="timeline-left">
+							<div class="timeline-image wow zoomIn">
+								<img src="images/image3-s.jpg" alt="">
+							</div>
+							<h3 class="wow bounceInLeft">Transition to Full Service</h3>
+							<p class="wow bounceInLeft">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+						</div>
+					</li>
+					
+					<li>	
+						<div class="timeline-right">
+							<div class="timeline-image wow zoomIn">
+								<img src="images/image4-s.jpg" alt="">
+							</div>
+							<h3 class="wow bounceInRight">Transition to Full Service</h3>
+							<p class="wow bounceInRight">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+						</div>
+					</li>
+					
+					<li>	
+						<div class="timeline-left">
+							<div class="timeline-image">
+								<p class="timeline-end wow bounceInUp">END OF TIMELINE!</p>
+							</div>
+						</div>
+					</li>
+				</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- About End -->
+	
+	<!-- Informations -->
+	<div id="informations">
+		<div class="container">
+			<div class="row text-center wow zoomIn">
+				<div class="col-md-4">
+					<div class="logo-circle"><i class="fa fa-bar-chart"></i></div>
+					<h4>Lorem Ipsum</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+					<a href="#" class="btn btn-info text-uppercase">READ MORE</a>
+				</div>
+				
+				<div class="col-md-4">
+					<div class="logo-circle"><i class="fa fa-bar-chart"></i></div>
+					<h4>Lorem Ipsum</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+					<a href="#" class="btn btn-info text-uppercase">READ MORE</a>
+				</div>
+				
+				<div class="col-md-4">
+					<div class="logo-circle"><i class="fa fa-bar-chart"></i></div>
+					<h4>Lorem Ipsum</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+					<a href="#" class="btn btn-info text-uppercase">READ MORE</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Informations End -->
+	
+	<!-- Feautures -->
+	<div id="feautures">
+		<div class="container wow flipInX">
+			<h1 class="text-uppercase text-center">Feautures</h1>
+			<div class="row margin-t-30">
+				<div class="col-md-4">
+					<img src="images/monitor.png" alt="Monitor">
+				</div>
+				
+				<div class="col-md-8">
+				<div class="row">
+					<div class="col-md-6">
+						<h3><i class="fa fa-rocket fa-lg"></i> Lorem Ipsum</h3>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+					</div>
+				
+					<div class="col-md-6">
+						<h3><i class="fa fa-rocket fa-lg"></i> Lorem Ipsum</h3>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-6">
+						<h3><i class="fa fa-rocket fa-lg"></i> Lorem Ipsum</h3>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+					</div>
+				
+					<div class="col-md-6">
+						<h3><i class="fa fa-rocket fa-lg"></i> Lorem Ipsum</h3>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Feautures End -->
+	
+	<!-- More Feautures -->
+	<div id="feautures-more">
+		<div class="container wow flipInY">
+			<h1 class="text-uppercase text-center">Even More Feautures</h1>
+			
+			<div class="row margin-t-30">
+				<div class="col-md-5">
+					<img src="images/browser.png" alt="Browser Image">
+				</div>
+				
+				<div class="col-md-6 col-md-offset-1">
+					<h3>Lorem Ipsum is simply</h3>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+					<i class="fa fa-play margin-t-30"></i><a href="#"> Discover more about this</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- More Feautures End -->
+	
+	<!-- Services -->
+	<div id="services">
+		<div class="container wow zoomInUp">
+			<h1 class="text-uppercase text-center">Services</h1>
+			
+			<div class="row text-center margin-t-30">
+				<div class="col-md-3">
+					<div class="circle-base">
+					<div class="circle-inner">
+            			<i class="fa fa-bar-chart"></i>
+            		</div>
+					</div>
+					<h4>Lorem Ipsum</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+					<a href="#" class="btn btn-info text-uppercase">READ MORE</a>
+					
+				</div>
+				
+				<div class="col-md-3">
+					<div class="circle-base">
+					<div class="circle-inner">
+            			<i class="fa fa-bar-chart"></i>
+            		</div>
+					</div>
+					<h4>Lorem Ipsum</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+					<a href="#" class="btn btn-info text-uppercase">READ MORE</a>
+					
+				</div>
+				
+				<div class="col-md-3">
+					<div class="circle-base">
+					<div class="circle-inner">
+            			<i class="fa fa-bar-chart"></i>
+            		</div>
+					</div>
+					<h4>Lorem Ipsum</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+					<a href="#" class="btn btn-info text-uppercase">READ MORE</a>
+					
+				</div>
+				
+				<div class="col-md-3">
+					<div class="circle-base">
+					<div class="circle-inner">
+            			<i class="fa fa-bar-chart"></i>
+            		</div>
+					</div>
+					<h4>Lorem Ipsum</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+					<a href="#" class="btn btn-info text-uppercase">READ MORE</a>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Services End -->
+	
+	<!-- Testimonials -->
+	<div id="testimonials">
+		<div class="container">
+			<h1 class="text-uppercase text-center">Testimonials</h1>
+			
+			<div class="row margin-t-30">
+				<div class="col-md-5">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="testimonial-circle">
+								<img src="images/profile2.jpg" alt="User">
+							</div>
+						</div>
+						
+						<div class="col-md-9">
+						<div class="testimonial-group">
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+						</div>
+							<h4>Lorem Ipsulm, <span class="text-small">c# developer</span></h4>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-5 col-md-offset-1">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="testimonial-circle">
+								<img src="images/profile1.jpg" alt="User">
+							</div>
+						</div>
+						
+						<div class="col-md-9">
+						<div class="testimonial-group">
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+						</div>
+							<h4>Lorem Ipsulm, <span class="text-small">web developer</span></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row margin-t-60">
+				<div class="col-md-5">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="testimonial-circle">
+								<img src="images/profile3.jpg" alt="User">
+							</div>
+						</div>
+						
+						<div class="col-md-9">
+						<div class="testimonial-group">
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+						</div>
+							<h4>Lorem Ipsulm, <span class="text-small">web designer</span></h4>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-5 col-md-offset-1">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="testimonial-circle">
+								<img src="images/profile4.jpg" alt="User">
+							</div>
+						</div>
+						
+						<div class="col-md-9">
+						<div class="testimonial-group">
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+						</div>
+							<h4>Lorem Ipsulm, <span class="text-small">java designer</span></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Testimonials End -->
+	
+	<!-- Portfolio -->
+	<div id="portfolio">
+		<div class="container">
+			<h1 class="text-uppercase text-center">Portfolio</h1>
+			<div class="margin-t-30"></div>
+				<div id="portfolio-images">
+    				<div class="item"><a href="images/image1-s.jpg" data-lightbox="image-1" data-title="Image One">
+    					<span class="imghover"></span>
+    					<img src="images/image1-s.jpg" alt="Image One"></a></div>
+    				
+    				<div class="item"><a href="images/image2-s.jpg" data-lightbox="image-1" data-title="Image Two">
+    					<span class="imghover"></span>
+    					<img src="images/image2-s.jpg" alt="Image Two"></a></div>
+    				
+    				<div class="item"><a href="images/image3-s.jpg" data-lightbox="image-1" data-title="Image Three">
+    					<span class="imghover"></span>
+    					<img src="images/image3-s.jpg" alt="Image Three"></a></div>
+    					
+    				<div class="item"><a href="images/image4-s.jpg" data-lightbox="image-1" data-title="Image Four">
+    					<span class="imghover"></span>
+    					<img src="images/image4-s.jpg" alt="Image Four"></a></div>
+				</div>
+		</div>
+	</div>
+	<!-- Portfolio End -->
+	
+	<!-- Team -->
+	<div id="team">
+		<div class="container">
+			<h1 class="text-uppercase text-center wow bounceInDown">Our Team</h1>
+			
+			<div class="row margin-t-120">
+				<div class="col-md-3 wow bounceInLeft">
+					<div class="team-box text-center">
+					<div class="team-circle">
+						<img src="images/profile3.jpg" alt="Team">
+					</div>
+					
+						<h3 class="margin-t-30">John Doe</h3>
+						<h5>SEO Master</h5>
+						<p>Lorem ipsum dolor sit amet, consectetured adipiscing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna.</p>
+						<div class="team-social margin-t-30">
+							<i class="fa fa-facebook-square"></i>
+							<i class="fa fa-twitter-square"></i>
+							<i class="fa fa-linkedin-square"></i>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-3 wow bounceInLeft">
+					<div class="team-box text-center">
+					<div class="team-circle">
+						<img src="images/profile1.jpg" alt="Team">
+					</div>
+					
+						<h3 class="margin-t-30">John Doe</h3>
+						<h5>SEO Master</h5>
+						<p>Lorem ipsum dolor sit amet, consectetured adipiscing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna.</p>
+						<div class="team-social margin-t-30">
+							<i class="fa fa-facebook-square"></i>
+							<i class="fa fa-twitter-square"></i>
+							<i class="fa fa-linkedin-square"></i>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-3 wow bounceInRight">
+					<div class="team-box text-center">
+					<div class="team-circle">
+						<img src="images/profile2.jpg" alt="Team">
+					</div>
+					
+						<h3 class="margin-t-30">John Doe</h3>
+						<h5>SEO Master</h5>
+						<p>Lorem ipsum dolor sit amet, consectetured adipiscing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna.</p>
+						<div class="team-social margin-t-30">
+							<i class="fa fa-facebook-square"></i>
+							<i class="fa fa-twitter-square"></i>
+							<i class="fa fa-linkedin-square"></i>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-3 wow bounceInRight">
+					<div class="team-box text-center">
+					<div class="team-circle">
+						<img src="images/profile4.jpg" alt="Team">
+					</div>
+					
+						<h3 class="margin-t-30">John Doe</h3>
+						<h5>SEO Master</h5>
+						<p>Lorem ipsum dolor sit amet, consectetured adipiscing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna.</p>
+						<div class="team-social margin-t-30">
+							<i class="fa fa-facebook-square"></i>
+							<i class="fa fa-twitter-square"></i>
+							<i class="fa fa-linkedin-square"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Team End -->
+	
+	<!-- Video Sample -->
+	<div id="video-sample">
+		<div class="container">
+			<h1 class="text-center text-uppercase">Video Sample</h1>
+			
+			<div class="row">
+				<p class="text-center margin-t-30">Lorem ipsum dolor sit amet, consectetured adipiscing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna.</p>
+				<div class="col-md-6 col-md-offset-3 text-center margin-t-60">
+					<i class="fa fa-play-circle-o" data-toggle="modal" data-target="#videoModal"></i>
+					
+					
+					<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+  						<div class="modal-dialog">
+    						<div class="modal-content">
+      						<div class="modal-header">
+        						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      						</div>
+      						<div class="modal-body">
+        						<div class="embed-responsive embed-responsive-16by9">
+ 		 							<iframe src="https://www.youtube.com/embed/DX-LoNaUr6w"></iframe>
+								</div>
+      						</div>
+    						</div>
+  						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Video Sample End -->
+	
+	<!-- Pricing -->
+	<div id="pricing">
+		<div class="container wow rubberBand">
+			<h1 class="text-center text-uppercase">Pricing tables</h1>
+			
+			<div class="row margin-t-30">
+				<div class="col-md-4">
+					<div class="price-table">
+						<div class="table-title">
+							<h3>Package One</h3>
+						</div>
+						
+						<div class="table-icon">
+							<i class="fa fa-bookmark-o"></i>
+						</div>
+						
+						<div class="table-price">
+							<span>$19<span class="period">/month</span></span>
+						</div>
+						
+						<div class="table-list">
+							<ul>
+								<li>30 Days Trial</li>
+								<li>No Support</li>
+								<li>No Update</li>
+								<li>1 User</li>
+								<li>50mb Bandwidth</li>
+								<li>No Security</li>
+							</ul>
+						</div>
+						
+						<div class="table-btn">
+							<a href="#" class="btn btn-primary">BUY NOW</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-4">
+					<div class="price-table">
+						<div class="table-title">
+							<div class="best-chose"></div>
+							<h3>Package One</h3>
+						</div>
+						
+						<div class="table-icon">
+							<i class="fa fa-bookmark-o"></i>
+						</div>
+						
+						<div class="table-price">
+							<span>$19<span class="period">/month</span></span>
+						</div>
+						
+						<div class="table-list">
+							<ul>
+								<li>30 Days Trial</li>
+								<li>No Support</li>
+								<li>No Update</li>
+								<li>1 User</li>
+								<li>50mb Bandwidth</li>
+								<li>No Security</li>
+							</ul>
+						</div>
+						
+						<div class="table-btn">
+							<a href="#" class="btn btn-primary">BUY NOW</a>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-4">
+					<div class="price-table">
+						<div class="table-title">
+							<h3>Package One</h3>
+						</div>
+						
+						<div class="table-icon">
+							<i class="fa fa-bookmark-o"></i>
+						</div>
+						
+						<div class="table-price">
+							<span>$19<span class="period">/month</span></span>
+						</div>
+						
+						<div class="table-list">
+							<ul>
+								<li>30 Days Trial</li>
+								<li>No Support</li>
+								<li>No Update</li>
+								<li>1 User</li>
+								<li>50mb Bandwidth</li>
+								<li>No Security</li>
+							</ul>
+						</div>
+						
+						<div class="table-btn">
+							<a href="#" class="btn btn-primary">BUY NOW</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Pricing End -->
+	
+	<!-- Subscribe -->
+	<div id="subscribe">
+		<div class="container">
+			<h1 class="text-center text-uppercase">Subscribe</h1>
+			
+			<div class="row margin-t-30 margin-b-30">
+				<div class="col-md-8 col-md-offset-2">
+				<p class="text-center">Subscribe to our mail list. We hate spam.</p>
+				<div class="subscribe-inputs">
+				<form action="#" method="post">
+					<input type="text" name="subtext" id="subtext" placeholder="Enter e-mail" required>
+					<input type="submit" value="SUBSCRIBE">
+				</form>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Subscribe End -->
+	
+	<!-- Slogan -->
+	<div id="slogan">
+		<div class="container text-center">
+			<h1>Canis Landing Page</h1>
+			<p>Canis will look beautiful on any device. Fully responsive, awesome and clean template.</p>
+		</div>
+	</div>
+	<!-- Slogan End -->
+	
+	<!-- Contact -->
+	<div id="contact">
+		<div class="container">
+			<h1 class="text-center text-uppercase">Contact US</h1>
+			<div class="row margin-t-30">
+			
+			<div class="col-md-6">
+			<div class="contactbg">
+			<form action="#" method="post">
+			<div class="row">
+				<h3 class="text-center text-uppercase">Stay tuned</h3>
+				<div class="col-md-6">
+					<input type="text" id="name" name="name" placeholder="Name" required>
+				</div>
+				
+				<div class="col-md-6">
+					<input type="email" id="email" name="email" placeholder="E-mail" required>
+				</div>
+			</div>
+				<textarea name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
+				<input type="submit" id="contactbtn" name="contactbtn" value="SEND MESSAGE">
+			</form>
+			</div>
+			</div>
+			
+			<div class="col-md-6">
+				<h4 class="text-uppercase">Keep In Touch</h4>
+				<p>Lorem ipsum dolor sit amet, consectetured adipiscing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna.</p>
+				<div class="row">
+					<div class="col-md-1 col-md-offset-1 margin-t-30">
+						<i class="fa fa-building-o"></i>
+					</div>
+					<div class="col-md-10 margin-t-30">
+						<h3>Our Office</h3>
+						<p>Street 127, New York</p>
+					</div>
+					
+					<div class="col-md-1 col-md-offset-1 margin-t-30">
+						<i class="fa fa-phone"></i>
+					</div>
+					<div class="col-md-10 margin-t-30">
+						<h3>Our Phone</h3>
+						<p>(00) 555 555 555</p>
+					</div>
+					
+					<div class="col-md-1 col-md-offset-1 margin-t-30">
+						<i class="fa fa-envelope-o"></i>
+					</div>
+					<div class="col-md-10 margin-t-30">
+						<h3>Our Mail</h3>
+						<p>mail@canislanding.com</p>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+	<!-- Contact End -->
+	
+	<!-- Footer -->
+	<footer>
+		<div class="container text-center">
+			<a href="#" id="back-to-top"><i class="fa fa-arrow-up"></i></a>
+			<p class="text-center">2015 © Copyright Canis. All rights Reserved.</p>
+		</div>
+	</footer>
+	<!-- Footer End -->
+	
+	<script>
+    $(document).ready(function() {
+      $("#portfolio-images").owlCarousel({
+        autoPlay: 3000,
+        items : 3,
+        itemsDesktop : [1199,3],
+        itemsDesktopSmall : [979,3]
+      });
+
+    });
+    </script>
+    
+	<!-- Bootstrap -->
+    <script src="js/bootstrap.js"></script> 
+    <!-- WOW -->
+    <script src="js/wow.min.js"></script>
+    <script>
+       new WOW().init();
+    </script>
+	<!-- Canis Custom JS -->
+	<script src="js/canis.js" type="text/javascript"></script>
+	
+</body>
+</html>
